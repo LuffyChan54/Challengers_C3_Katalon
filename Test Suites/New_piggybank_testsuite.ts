@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>New_piggybank_testsuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>95807642-1c4c-41e5-9167-f04344dd5b25</testSuiteGuid>
+   <testCaseLink>
+      <guid>6824276c-48f6-4c22-95d4-e14f4838b4d7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Create piggybank</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>681940e3-546a-40b5-a3ef-0c7f7ca15336</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/New_TestData_PiggyBank_2</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>681940e3-546a-40b5-a3ef-0c7f7ca15336</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>new_piggybank_name</value>
+         <variableId>d3bceab0-2c6b-4663-b143-f9152a4e1e91</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>681940e3-546a-40b5-a3ef-0c7f7ca15336</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>new_piggybank_target_amount</value>
+         <variableId>40af83b8-7085-4905-9252-ae4e7be67824</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>681940e3-546a-40b5-a3ef-0c7f7ca15336</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>new_piggy_bank_notes</value>
+         <variableId>279aada6-e35c-4847-bbcd-a57c89c60549</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>681940e3-546a-40b5-a3ef-0c7f7ca15336</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>new_piggy_bank_group</value>
+         <variableId>ce00f4f5-0292-44de-8647-50bf444abd96</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>681940e3-546a-40b5-a3ef-0c7f7ca15336</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>new_piggy_bank_flag</value>
+         <variableId>8b0d3d75-94ac-4384-949c-80d8a4e0ed77</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
