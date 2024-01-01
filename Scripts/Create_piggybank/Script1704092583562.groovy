@@ -48,7 +48,9 @@ WebUI.setText(findTestObject('Object Repository/Create_piggybank/Page_New piggy 
     new_piggy_bank_notes)
 
 WebUI.uploadFile(findTestObject('Create_piggybank/Page_New piggy bank  Piggy banks  Firefly III/importfile_piggybank'), 
-   RunConfiguration.getProjectDir()+ "\\" +new_piggy_bank_attachments)
+  System.getProperty(("user.dir")) + "\\" +new_piggy_bank_attachments)
+
+
 
 WebUI.setText(findTestObject('Object Repository/Create_piggybank/Page_New piggy bank  Piggy banks  Firefly III/input_Group_object_group'), 
     new_piggy_bank_group)
