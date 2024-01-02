@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>fail_amount_negative</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>2418e7e9-8d50-40bc-a1e2-18e19fb64af4</dataFileGUID>
+   <dataSourceUrl>C:\Users\Jack\git\Challengers_C3_Katalon\challengers_data_for_test\recurring_transaction\recurring_transaction_test_data\recurring_transaction_fail_amount_negative.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,6 @@
+title,first_date,repetition_type,skip,weekend,repetition_end,repeat_until,repetitions,transaction_type,transaction_description,transaction_currency_id,amount,source_id,destination_id
+"",29/02/2024,"yearly.*",10,1,forever,"","",withdrawal,cbafadbbecfedcebfdbebbdcfaabcbfeadfdfdecdcacadbfefbcfecbacabefcdcbaffafebbcfcedeccaaeaddcbdcfbebfedcdffeebadbabdaeacffecdefffdccccbafcdcebecafddabdcccacfbcacceadbdfefaedfddccbabdbd,1,336106034,184,62
+"",29/02/2024,"ndom.*",19,2,until_date,31/12/2024,"",transfer,eeacafbcbaccdfeddecbdbadcfebfabbceaddfbbdadabadaecbffdcddcafbcaddbadbffaebddfefdfceeeabbafeddbcffaafccddbfddaaaaafffbfbaefcdaaceacddeeefeebbcafaafbfbfeebeeeceeccfdabcaebaaedccadfececebbdcc,1,264601813,184,57
+"",29/02/2024,"ndom.*",25,1,times,"",178,deposit,ebffbfacbbdefbfcabffaabdfccbbffedaeaabefbebbacbccfe,1,954279734,62,184
+"",29/02/2024,"yearly.*",22,4,until_date,31/12/2024,"",withdrawal,cccdcfbbfebfbdfcbabdaaceffbbbbaededbbebebcccffeefcabbeacbfbcabefda,1,406205617,57,62
+"",29/02/2024,"daily.*",2,3,times,"",107,deposit,fecfcfbdcacafecbdcedbdacaacabcaaabdeaefecfabdfafaeffdcddacffeefdabdbbbaffeebebbebacaecbfadceeabeeedbbeeebccfabaadedabbafafddaebcfcbcbaebabbeaadfdbbdbeccacabbffbafbaacdeceadafbeafdeeecffebdfdddacaccaeaffceae,1,403332899,62,184

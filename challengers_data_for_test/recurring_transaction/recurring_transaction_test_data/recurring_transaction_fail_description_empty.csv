@@ -1,0 +1,6 @@
+title,first_date,repetition_type,skip,weekend,repetition_end,repeat_until,repetitions,transaction_type,transaction_description,transaction_currency_id,amount,source_id,destination_id
+abaacbffbd,29/02/2024,ndom.*,21,4,forever,,,deposit,,1,372249970,62,57
+adfafacecdcccfddeffcddfeaabbcafcbaebcbdaacffeaccefbbebfbdaedcfdfcbaeedfeacddcdcdbbabbdcbeffffeceaddfbcefcecbccedbfafefceeaaafdcadbbbdeaebfdcdabaeaafebdcdfcbbbfbeabbbacbdbbebbefcbdfabdebdeaabcdfefedaacdabccbdcdde,29/02/2024,yearly.*,21,4,forever,,,withdrawal,,1,785136857,57,62
+cdaedbbfaebccdafabbefbccffbcdfbecffcdfdbdcdeaaaaddbefbefebfdaadedc,29/02/2024,monthly.*,15,4,forever,,,deposit,,1,673177233,62,57
+deddfdcbfaccccdbfabaffeeaffbaaabccaebdbfbefdbccddfbadfdddcddefdedddecccfdbaccceaebdafbfeffecebedadbbccdcadaefabfdfacfdcbaf,29/02/2024,yearly.*,3,1,forever,,,withdrawal,,1,62813178,57,62
+ffddaebdecdfffdeebdbabdeeecebbecedcfffaefccdcbfbfbefcaadaebacbbfecdbbafacedcdcabeaaaddaadfdcfaabcfcbdcaaccbffceabccbfbfffcecfefdfdeadbccdfddfaedcfedfffaffcedbeefccddbaafdeccfdacdebfbcbacddd,29/02/2024,ndom.*,4,3,forever,,,withdrawal,,1,906505226,184,62
