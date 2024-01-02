@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_You seem to have no bills yet. You should_5d1957</name>
+   <tag></tag>
+   <elementGuidId>17eec5c4-e97a-41d1-b4c2-998ca964275f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='optional-info']/div[5]/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.help-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>72699e6d-5b48-4a89-b549-ffbf2e13ae13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>help-block</value>
+      <webElementGuid>e602428b-39f1-416c-8e82-95fe3e1ac05d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You seem to have no bills yet. You should create some on the bills-page. Bills can help you keep track of expenses.</value>
+      <webElementGuid>334a4476-c862-4c87-83d0-e0c4e83655a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;optional-info&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-12&quot;]/p[@class=&quot;help-block&quot;]</value>
+      <webElementGuid>049f0acc-05a3-4562-963d-699ab7a1b78d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='optional-info']/div[5]/div[2]/p</value>
+      <webElementGuid>aea6c00d-1319-48e8-93b3-e5c232756def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>b5925d45-43da-40f6-ba9a-2ee85e3f02bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'You seem to have no bills yet. You should create some on the bills-page. Bills can help you keep track of expenses.' or . = 'You seem to have no bills yet. You should create some on the bills-page. Bills can help you keep track of expenses.')]</value>
+      <webElementGuid>46813639-7aed-4542-9f67-c8ad567e471f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

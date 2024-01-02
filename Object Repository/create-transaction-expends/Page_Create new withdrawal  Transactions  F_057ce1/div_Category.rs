@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Category</name>
+   <tag></tag>
+   <elementGuidId>c4ccc718-ea43-4e89-90a5-10b1c0ca1e1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='optional-info']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e6d3945a-a9ea-4406-a480-ff78005ae136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-12 text-sm</value>
+      <webElementGuid>ccca183f-68f5-4909-87db-76c558144cd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Category
+  </value>
+      <webElementGuid>849338bb-a83b-4ad6-ae38-90f8f51c8dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;optional-info&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-12 text-sm&quot;]</value>
+      <webElementGuid>55f09ffc-c803-414c-9da3-3d9b59efd2fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='optional-info']/div[2]/div</value>
+      <webElementGuid>08dbc70b-ee3d-4f32-ac94-a9dbfef31999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>a447783c-bc65-4e69-bfd6-42cc429172dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+    Category
+  ' or . = '
+    Category
+  ')]</value>
+      <webElementGuid>08c72541-b960-4e01-a317-db32c5f98675</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,112 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Create_piggybank</name>
+   <name>TC_Create_Budget</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>2b6896f7-3da9-4d23-8c72-6c5e7b2c61cf</testCaseGuid>
+   <testCaseGuid>57072641-24f3-4b10-93ef-fa63fbca01a8</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>d3bceab0-2c6b-4663-b143-f9152a4e1e91</variableId>
+      <variableId>861d1aa3-ca7f-4b89-b9b5-1dac4f7fd275</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>538633e3-84c8-413f-8261-6d4035303efb</variableId>
+      <variableId>1edaed62-276c-4239-b312-19b41ff3ac1e</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>40af83b8-7085-4905-9252-ae4e7be67824</variableId>
+      <variableId>37b6f483-2d55-4ad8-9ec0-5d3aba021dd4</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>692e3109-aa3a-44ee-95f7-e7d33b23edfd</variableId>
+      <variableId>a822b6b5-4a27-43a0-b30d-c4a6372c316e</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>279aada6-e35c-4847-bbcd-a57c89c60549</variableId>
+      <variableId>99c26488-11eb-4f0a-b226-c7aeae0c2f0f</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>51acfbd6-7961-4720-9271-7e6e71fef5fc</variableId>
+      <variableId>2afc064f-f72c-4b27-af5b-0fc658148e96</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>ce00f4f5-0292-44de-8647-50bf444abd96</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>8b0d3d75-94ac-4384-949c-80d8a4e0ed77</variableId>
+      <variableId>dec2c47a-df3c-4a24-9829-c98e381f9ec5</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>d3bceab0-2c6b-4663-b143-f9152a4e1e91</id>
+      <id>861d1aa3-ca7f-4b89-b9b5-1dac4f7fd275</id>
       <masked>false</masked>
-      <name>new_piggy_bank_name</name>
+      <name>name</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>538633e3-84c8-413f-8261-6d4035303efb</id>
+      <id>1edaed62-276c-4239-b312-19b41ff3ac1e</id>
       <masked>false</masked>
-      <name>new_piggy_bank_account</name>
+      <name>auto_budget_type</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>40af83b8-7085-4905-9252-ae4e7be67824</id>
+      <id>37b6f483-2d55-4ad8-9ec0-5d3aba021dd4</id>
       <masked>false</masked>
-      <name>new_piggy_bank_target_amount</name>
+      <name>auto_budget_currency_id</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>692e3109-aa3a-44ee-95f7-e7d33b23edfd</id>
+      <id>a822b6b5-4a27-43a0-b30d-c4a6372c316e</id>
       <masked>false</masked>
-      <name>new_piggy_bank_target_date</name>
+      <name>auto_budget_amount</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>279aada6-e35c-4847-bbcd-a57c89c60549</id>
+      <id>99c26488-11eb-4f0a-b226-c7aeae0c2f0f</id>
       <masked>false</masked>
-      <name>new_piggy_bank_notes</name>
+      <name>attachment</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>51acfbd6-7961-4720-9271-7e6e71fef5fc</id>
+      <id>2afc064f-f72c-4b27-af5b-0fc658148e96</id>
       <masked>false</masked>
-      <name>new_piggy_bank_attachments</name>
+      <name>auto_budget_period</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>ce00f4f5-0292-44de-8647-50bf444abd96</id>
+      <id>dec2c47a-df3c-4a24-9829-c98e381f9ec5</id>
       <masked>false</masked>
-      <name>new_piggy_bank_group</name>
-   </variable>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>8b0d3d75-94ac-4384-949c-80d8a4e0ed77</id>
-      <masked>false</masked>
-      <name>new_piggy_bank_flag</name>
+      <name>flag</name>
    </variable>
 </TestCaseEntity>

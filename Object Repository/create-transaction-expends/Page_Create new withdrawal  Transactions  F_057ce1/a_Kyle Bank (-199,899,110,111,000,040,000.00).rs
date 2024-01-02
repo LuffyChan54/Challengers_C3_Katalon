@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kyle Bank (-199,899,110,111,000,040,000.00)</name>
+   <tag></tag>
+   <elementGuidId>e8c79f8d-b527-4d19-84ba-2228a7afe6ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='transaction-info']/div[2]/div[2]/section/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.dropdown.open > ul.dropdown-menu > li.active > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c8f13953-8ae9-4c10-b910-329afe51a811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>253f53a3-5f8a-4ec9-a374-0d01413afd28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kyle Bank (-€199,899,110,111,000,040,000.00)</value>
+      <webElementGuid>60b2d44a-2d33-451b-abe6-f864492243b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transaction-info&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-12&quot;]/section[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;active&quot;]/a[1]</value>
+      <webElementGuid>e353dbba-494f-47a0-b67c-a03032f32d14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='transaction-info']/div[2]/div[2]/section/ul/li/a</value>
+      <webElementGuid>499a0e06-0010-4309-8260-1ca57329dfb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/section/ul/li/a</value>
+      <webElementGuid>c13941b7-477a-47b0-b0c0-881c7691ad28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Kyle Bank (-€199,899,110,111,000,040,000.00)' or . = 'Kyle Bank (-€199,899,110,111,000,040,000.00)')]</value>
+      <webElementGuid>10d7c92e-5721-462d-a202-7ccabc1ff0d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

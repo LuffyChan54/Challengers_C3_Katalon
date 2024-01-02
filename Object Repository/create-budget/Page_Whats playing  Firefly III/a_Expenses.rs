@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Expenses</name>
+   <tag></tag>
+   <elementGuidId>e4b2762b-a7a3-49c1-8664-a1aae8902bff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='transaction-menu']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.treeview-menu > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>15611b66-3bfc-407b-9946-eb5e72d1776a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://firefly.buudadawg.online/transactions/withdrawal</value>
+      <webElementGuid>9b4d40cf-ccd5-47c0-a187-86c471f3e76b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    
+                    Expenses
+                </value>
+      <webElementGuid>44af3fd6-72be-4cc3-b900-0d7041402b0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transaction-menu&quot;)/ul[@class=&quot;treeview-menu&quot;]/li[1]/a[1]</value>
+      <webElementGuid>ab355d9e-9a52-4f2b-b718-c64c48574a9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='transaction-menu']/ul/li/a</value>
+      <webElementGuid>3a3bd8c0-97ca-4c34-bef1-a2d594b6756e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://firefly.buudadawg.online/transactions/withdrawal')]</value>
+      <webElementGuid>eef02538-3e1d-4d56-afd5-ddce35b657da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/ul/li/a</value>
+      <webElementGuid>58794e96-634d-48ce-8bd3-4bcae2a4cc14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://firefly.buudadawg.online/transactions/withdrawal' and (text() = '
+                    
+                    Expenses
+                ' or . = '
+                    
+                    Expenses
+                ')]</value>
+      <webElementGuid>ac3510bf-fdfc-4ee5-8310-42a94cca34e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

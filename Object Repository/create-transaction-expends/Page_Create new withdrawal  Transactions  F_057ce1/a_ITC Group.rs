@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ITC Group</name>
+   <tag></tag>
+   <elementGuidId>828ad288-5672-4c64-a231-1ded3e8ad963</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='transaction-info']/div[3]/div[2]/section/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(6) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cb9c8a50-6b6b-4541-abe4-0759582b9700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e7722c56-8829-4957-a835-3c0cabdbdce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ITC Group</value>
+      <webElementGuid>59a4531b-a6b4-45b1-a529-1aa0927f77d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transaction-info&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-12&quot;]/section[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[6]/a[1]</value>
+      <webElementGuid>09d59125-6d47-4784-b490-f4cf54bb5925</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='transaction-info']/div[3]/div[2]/section/ul/li[6]/a</value>
+      <webElementGuid>9a6ab2f7-e0cf-47ed-afde-409139b02f0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>eb6e87ea-c789-4602-af38-774fb192f6ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'ITC Group' or . = 'ITC Group')]</value>
+      <webElementGuid>e996eb6a-ad5f-42cd-98d6-9e7ed89e8d38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

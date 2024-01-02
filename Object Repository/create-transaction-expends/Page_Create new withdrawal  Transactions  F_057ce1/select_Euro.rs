@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Euro</name>
+   <tag></tag>
+   <elementGuidId>706e7df6-07ef-4f1f-9825-ac4da099a1c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='foreign_currency[]']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;foreign_currency[]&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d7d8dcd1-30c3-4bc2-a59e-d265605d74d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>foreign_currency[]</value>
+      <webElementGuid>ca51a778-a8a2-4478-acd1-dc108e5eef91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>1e706cfc-26dc-4cec-9bca-ad0f505e7f2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        
+      
+        Euro
+      </value>
+      <webElementGuid>164014b1-b889-432e-8398-8c1dc569e898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;amount-info&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/select[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>36890d1c-8cea-43c1-9e5b-cf0e758fb8b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='foreign_currency[]']</value>
+      <webElementGuid>0737ab72-479a-4510-bd00-230dcb7aaa5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='amount-info']/div[2]/div[2]/select</value>
+      <webElementGuid>9205982b-1aef-404d-9e3a-1dde63ac4649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>32fc2586-233b-4612-b609-6e98d1de1182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'foreign_currency[]' and (text() = '
+        
+      
+        Euro
+      ' or . = '
+        
+      
+        Euro
+      ')]</value>
+      <webElementGuid>963fe49f-1d22-41b7-9f7c-5fe7aced7496</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

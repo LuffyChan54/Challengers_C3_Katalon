@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Expenses</name>
+   <tag></tag>
+   <elementGuidId>ffb02073-d658-4784-917e-6e37e9957fd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='transaction-menu']/ul/li/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.treeview-menu > li > a > span:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6cbddc1a-a819-41df-9c51-e7e6733ba9bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Expenses</value>
+      <webElementGuid>db8231f9-845f-4eb3-8e58-98e17e9766e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transaction-menu&quot;)/ul[@class=&quot;treeview-menu&quot;]/li[1]/a[1]/span[2]</value>
+      <webElementGuid>90c632c0-26db-4c77-a5a6-6077b2113fcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='transaction-menu']/ul/li/a/span[2]</value>
+      <webElementGuid>d799da6d-4a93-4456-9a79-3874a9bfb779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/ul/li/a/span[2]</value>
+      <webElementGuid>8b5e2684-0d0c-4f89-9bbb-d0250d8fa63a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Expenses' or . = 'Expenses')]</value>
+      <webElementGuid>f9810358-acb5-4dcc-834f-790a2f7c3b0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_New budget</name>
+   <tag></tag>
+   <elementGuidId>09f2ffa8-46b7-40e1-8839-0fae47acd393</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/section[2]/div[3]/div/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5bf1d405-9b98-4942-a3d5-c8eafa4871e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://firefly.buudadawg.online/budgets/create</value>
+      <webElementGuid>eebb9218-39c3-473b-b4eb-9e0e2f17fb05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success</value>
+      <webElementGuid>970728ab-ad6f-41ce-817a-92eed2b98e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> New budget</value>
+      <webElementGuid>0e19de1e-a0f8-4288-862b-c057be03d2fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body no-padding&quot;]/div[1]/a[@class=&quot;btn btn-success&quot;]</value>
+      <webElementGuid>ee539670-81a7-4419-9206-5f58723aa19c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/section[2]/div[3]/div/div/div[2]/div/a</value>
+      <webElementGuid>3067501d-1380-4391-90f3-5a17d02e68f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'New budget')]</value>
+      <webElementGuid>9e059d2a-7b76-4417-adf6-880da7df652e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://firefly.buudadawg.online/budgets/create')]</value>
+      <webElementGuid>d6720843-7569-4758-a582-29bdc63b73cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/a</value>
+      <webElementGuid>f19ef997-e5da-43af-807d-eee4bd282462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://firefly.buudadawg.online/budgets/create' and (text() = ' New budget' or . = ' New budget')]</value>
+      <webElementGuid>de575862-a02d-4b10-9c8d-77e8b403bdb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

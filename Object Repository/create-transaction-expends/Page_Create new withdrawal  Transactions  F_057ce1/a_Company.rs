@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Company</name>
+   <tag></tag>
+   <elementGuidId>c49e666b-14b4-44f9-9885-3b49019a085d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='optional-info']/div[2]/div[2]/section/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.dropdown.open > ul.dropdown-menu > li.active > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b68fe4e2-211c-4aaf-a0b3-c965667277d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6f9e2a0b-0860-4dcb-a8a6-efbea1eab733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Company</value>
+      <webElementGuid>96439f0d-1d12-43b9-a3dc-94452a0bcff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;optional-info&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-12&quot;]/section[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;active&quot;]/a[1]</value>
+      <webElementGuid>1ba26308-c225-4811-83d2-7a16f8efde02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='optional-info']/div[2]/div[2]/section/ul/li/a</value>
+      <webElementGuid>08e6f30f-ca46-4ce6-904c-1f8d68bcabbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/section/ul/li/a</value>
+      <webElementGuid>d886c875-bbb8-471c-813f-9ad35423f3a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Company' or . = 'Company')]</value>
+      <webElementGuid>1e20c78d-84da-4c39-a0cc-60f91e083547</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
