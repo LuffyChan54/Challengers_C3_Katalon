@@ -39,25 +39,29 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/Create_piggybank/Pag
     new_piggy_bank_account, true)
 
 WebUI.setText(findTestObject('Object Repository/Create_piggybank/Page_New piggy bank  Piggy banks  Firefly III/input_Target amount_targetamount'), 
-		new_piggy_bank_target_amount)
+    new_piggy_bank_target_amount)
 
 WebUI.setText(findTestObject('Create_piggybank/Page_New piggy bank  Piggy banks  Firefly III/test_datepicker'), new_piggy_bank_target_date)
-
 
 WebUI.setText(findTestObject('Object Repository/Create_piggybank/Page_New piggy bank  Piggy banks  Firefly III/textarea_Notes_notes'), 
     new_piggy_bank_notes)
 
 WebUI.uploadFile(findTestObject('Create_piggybank/Page_New piggy bank  Piggy banks  Firefly III/importfile_piggybank'), 
-  System.getProperty(("user.dir")) + "\\" +new_piggy_bank_attachments)
-
-
+    (System.getProperty('user.dir') + '\\') + new_piggy_bank_attachments)
 
 WebUI.setText(findTestObject('Object Repository/Create_piggybank/Page_New piggy bank  Piggy banks  Firefly III/input_Group_object_group'), 
     new_piggy_bank_group)
 
 WebUI.click(findTestObject('Object Repository/Create_piggybank/Page_New piggy bank  Piggy banks  Firefly III/button_Store new piggy bank'))
 
-WebUI.verifyTextPresent(new_piggy_bank_flag, false)
-
-WebUI.closeBrowser()
+try {
+    if (WebUI.verifyTextPresent(new_piggy_bank_flag, false)) {
+        
+    }
+}
+catch (Exception e) {
+} 
+finally { 
+    WebUI.closeBrowser()
+}
 

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Select all</name>
+   <tag></tag>
+   <elementGuidId>c9af814b-e0f2-42d2-8752-813f4156e6cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inputAccountsSelect']/span/div/ul/li[2]/a/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1445dfc8-f323-4f20-9146-140a38523cb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>fab77d18-0bdd-49e6-be7d-d243bac9cdc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Select all</value>
+      <webElementGuid>304bd196-b5f9-4a12-aaa0-8096b86bed59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputAccountsSelect&quot;)/span[@class=&quot;multiselect-native-select&quot;]/div[@class=&quot;btn-group open&quot;]/ul[@class=&quot;multiselect-container dropdown-menu&quot;]/li[@class=&quot;multiselect-item multiselect-all&quot;]/a[@class=&quot;multiselect-all&quot;]/label[@class=&quot;checkbox&quot;]</value>
+      <webElementGuid>63f124b5-ca32-4c19-97bc-3ce1aef47f4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inputAccountsSelect']/span/div/ul/li[2]/a/label</value>
+      <webElementGuid>ef85051b-11ff-43db-a11f-9015567f46aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/label</value>
+      <webElementGuid>379d8e36-97e6-4b88-aa41-8cc1cc5b72e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Select all' or . = ' Select all')]</value>
+      <webElementGuid>4eb8fcf9-bb07-4e61-96f6-0f6c875d3a11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

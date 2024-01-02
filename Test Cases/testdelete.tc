@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testdelete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7040ed7c-127a-4f07-a1a3-97ec839be798</testCaseGuid>
+   <variable>
+      <defaultValue>'Buy Car'</defaultValue>
+      <description></description>
+      <id>aaf24d47-a95b-4f04-b7e7-2d5d5fb22436</id>
+      <masked>false</masked>
+      <name>xoaheo</name>
+   </variable>
+</TestCaseEntity>

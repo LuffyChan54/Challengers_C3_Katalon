@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Create_piggybank_data</name>
+   <name>Create_report_data</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>dee0f2c5-9b6a-4d7c-8846-c840e938180d</dataFileGUID>
-   <dataSourceUrl>challengers_data_for_test/piggybank_test_binding.xlsx</dataSourceUrl>
+   <dataFileGUID>e603715e-3f0f-4fec-abbc-953713144fe9</dataFileGUID>
+   <dataSourceUrl>challengers_data_for_test/report_test_binding.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>true</isInternalPath>
    <query></query>

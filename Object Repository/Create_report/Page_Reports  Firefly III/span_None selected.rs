@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_None selected</name>
+   <tag></tag>
+   <elementGuidId>24ab3222-e105-4504-aa14-4daaf565208c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='extra-options']/div/div/span/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#extra-options > div.form-group > div.col-sm-9 > span.multiselect-native-select > div.btn-group > button.multiselect.dropdown-toggle.btn.btn-default > span.multiselect-selected-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a8b43cd2-848d-4512-9d5f-6d024d01a6dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-selected-text</value>
+      <webElementGuid>e6607ed7-8a5a-4775-b105-e05673887ea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>None selected</value>
+      <webElementGuid>50ad2a53-d19f-45c7-a4bb-3cf6f323f970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;extra-options&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-9&quot;]/span[@class=&quot;multiselect-native-select&quot;]/div[@class=&quot;btn-group&quot;]/button[@class=&quot;multiselect dropdown-toggle btn btn-default&quot;]/span[@class=&quot;multiselect-selected-text&quot;]</value>
+      <webElementGuid>3681ff38-c295-4565-ac62-0fc8b313f69d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='extra-options']/div/div/span/div/button/span</value>
+      <webElementGuid>b47886e5-20bb-4d58-8632-8165608b7f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/span/div/button/span</value>
+      <webElementGuid>d913a596-0880-45e3-ad43-517f2cc230b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'None selected' or . = 'None selected')]</value>
+      <webElementGuid>f8bcf9ae-92d9-4148-93db-67f90a81adf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

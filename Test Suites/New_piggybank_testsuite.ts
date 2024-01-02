@@ -18,58 +18,67 @@
       <testCaseId>Test Cases/Create_piggybank</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>5fcdb6f3-d7c9-4016-9c31-6f409ab41e9c</id>
+         <id>38731c48-b3be-4259-81d7-bcf9fdb872da</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
          <testDataId>Data Files/Create_piggybank_data</testDataId>
       </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c8218528-3749-4074-be16-e2753d95baed</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Create_report_data</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>5fcdb6f3-d7c9-4016-9c31-6f409ab41e9c</testDataLinkId>
+         <testDataLinkId>38731c48-b3be-4259-81d7-bcf9fdb872da</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>new_piggy_bank_name</value>
          <variableId>d3bceab0-2c6b-4663-b143-f9152a4e1e91</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>5fcdb6f3-d7c9-4016-9c31-6f409ab41e9c</testDataLinkId>
+         <testDataLinkId>38731c48-b3be-4259-81d7-bcf9fdb872da</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>new_piggy_bank_target_amount</value>
          <variableId>40af83b8-7085-4905-9252-ae4e7be67824</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>5fcdb6f3-d7c9-4016-9c31-6f409ab41e9c</testDataLinkId>
+         <testDataLinkId>38731c48-b3be-4259-81d7-bcf9fdb872da</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>new_piggy_bank_notes</value>
          <variableId>279aada6-e35c-4847-bbcd-a57c89c60549</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>5fcdb6f3-d7c9-4016-9c31-6f409ab41e9c</testDataLinkId>
+         <testDataLinkId>38731c48-b3be-4259-81d7-bcf9fdb872da</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>new_piggy_bank_group</value>
          <variableId>ce00f4f5-0292-44de-8647-50bf444abd96</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>5fcdb6f3-d7c9-4016-9c31-6f409ab41e9c</testDataLinkId>
+         <testDataLinkId>38731c48-b3be-4259-81d7-bcf9fdb872da</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>new_piggy_bank_flag</value>
          <variableId>8b0d3d75-94ac-4384-949c-80d8a4e0ed77</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>5fcdb6f3-d7c9-4016-9c31-6f409ab41e9c</testDataLinkId>
+         <testDataLinkId>38731c48-b3be-4259-81d7-bcf9fdb872da</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>new_piggy_bank_account</value>
          <variableId>538633e3-84c8-413f-8261-6d4035303efb</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>5fcdb6f3-d7c9-4016-9c31-6f409ab41e9c</testDataLinkId>
+         <testDataLinkId>38731c48-b3be-4259-81d7-bcf9fdb872da</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>new_piggy_bank_target_date</value>
          <variableId>692e3109-aa3a-44ee-95f7-e7d33b23edfd</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>5fcdb6f3-d7c9-4016-9c31-6f409ab41e9c</testDataLinkId>
+         <testDataLinkId>38731c48-b3be-4259-81d7-bcf9fdb872da</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>new_piggy_bank_attachments</value>
          <variableId>51acfbd6-7961-4720-9271-7e6e71fef5fc</variableId>
