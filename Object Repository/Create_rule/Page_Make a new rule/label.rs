@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label</name>
+   <tag></tag>
+   <elementGuidId>bbea9af3-ff3c-4da9-a893-5e20fdb8d80f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='stop_processing_holder']/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkbox > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>01c1d755-bfea-4ecd-aec9-acb7c00a66a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stop_processing_holder&quot;)/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;checkbox&quot;]/label[1]</value>
+      <webElementGuid>baa795cc-6569-47d4-8a19-e8fffbc207ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='stop_processing_holder']/div/div/label</value>
+      <webElementGuid>aee3e0ad-8f08-4d8c-99e0-243460c62b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/label</value>
+      <webElementGuid>d0d3e69c-f824-4cf3-8ff4-a838474b8ca8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

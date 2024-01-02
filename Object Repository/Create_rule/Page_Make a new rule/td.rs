@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td</name>
+   <tag></tag>
+   <elementGuidId>4cd49be4-bc91-4cc1-8cf9-07f0a5adfa14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='store']/div[4]/div/div/div[2]/table/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.rule-action-holder > td:nth-of-type(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d237d3e6-8295-46f4-8ba8-7581285599fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;store&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body rule-action-box&quot;]/table[@class=&quot;table table-condensed table-bordered table-striped&quot;]/tbody[@class=&quot;rule-action-tbody&quot;]/tr[@class=&quot;rule-action-holder&quot;]/td[4]</value>
+      <webElementGuid>72349656-738f-4d9f-a5d4-1e66cf3cd60c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='store']/div[4]/div/div/div[2]/table/tbody/tr/td[4]</value>
+      <webElementGuid>697e6f0b-ddd0-4ded-aa76-02a73d75b418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/table/tbody/tr/td[4]</value>
+      <webElementGuid>f4e9bccd-edd8-46f7-9add-d6d57d334879</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

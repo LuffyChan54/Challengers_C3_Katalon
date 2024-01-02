@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_1</name>
+   <tag></tag>
+   <elementGuidId>11995a59-7b75-4a68-a475-280fda7ef964</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='store']/div[2]/div/div/div[2]/table/tbody/tr/td[5]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(5) > div.checkbox > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8d8579c7-f584-4cfa-a55a-f14ba48eddcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;store&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body rule-trigger-box&quot;]/table[@class=&quot;table table-condensed table-bordered table-striped&quot;]/tbody[@class=&quot;rule-trigger-tbody&quot;]/tr[@class=&quot;rule-trigger-holder&quot;]/td[5]/div[@class=&quot;checkbox&quot;]/label[1]</value>
+      <webElementGuid>bf8e5a29-0b55-480e-8509-f2ae40d3b3b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='store']/div[2]/div/div/div[2]/table/tbody/tr/td[5]/div/label</value>
+      <webElementGuid>429a1c76-0c6b-4ac6-9e21-315b758a1425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div/label</value>
+      <webElementGuid>a9ba4b97-b8d4-4b20-ae65-4b05bf8ab708</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

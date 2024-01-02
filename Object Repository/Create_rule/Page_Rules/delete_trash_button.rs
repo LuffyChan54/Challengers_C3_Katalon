@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>delete_trash_button</name>
+   <tag></tag>
+   <elementGuidId>62d573ef-28be-4c24-8ef7-62c2d3633287</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/section[2]/div[3]/div/div/div[2]/table/tbody/tr/td[2]/div/a[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-danger > span.fa.fa-fw.fa-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6be10dda-e736-4dc3-b11f-8fc3f4d8210e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-fw fa-trash</value>
+      <webElementGuid>f90df934-6d57-484e-a116-5b84d0ffc76c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12&quot;]/div[@class=&quot;box rules-box&quot;]/div[@class=&quot;box-body&quot;]/table[@class=&quot;table table-hover table-striped group-rules&quot;]/tbody[@class=&quot;rule-connected-list ui-sortable&quot;]/tr[@class=&quot;single-rule&quot;]/td[2]/div[@class=&quot;btn-group btn-group-xs edit_buttons&quot;]/a[@class=&quot;btn btn-danger&quot;]/span[@class=&quot;fa fa-fw fa-trash&quot;]</value>
+      <webElementGuid>89f17e20-dd13-4e5a-83b9-cb9ff5d30a00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/section[2]/div[3]/div/div/div[2]/table/tbody/tr/td[2]/div/a[2]/span</value>
+      <webElementGuid>ba587c3d-9231-469a-96f3-15ffe4f07884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>7aacb8e6-4282-453b-9e00-9f169d2a0500</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
