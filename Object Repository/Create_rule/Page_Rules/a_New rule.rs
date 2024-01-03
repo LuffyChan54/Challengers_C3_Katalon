@@ -6,12 +6,12 @@
    <elementGuidId>d591be31-3556-4029-a664-2280acd724cc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/section[2]/div[3]/div/div/div[2]/p[2]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>p:nth-of-type(2) > a.btn.btn-success.new_rule</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@href, 'https://firefly.buudadawg.online/rules/create/12')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ac5c7b19-88c9-494c-8179-482a9162abb1</webElementGuid>
+      <webElementGuid>182f9145-0910-4ea4-ba07-6a982f08bb6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://firefly.buudadawg.online/rules/create/12</value>
-      <webElementGuid>b58e2340-bf13-42e8-9818-69e5d3342b98</webElementGuid>
+      <webElementGuid>4aa751e1-ec44-4eb1-8489-e28ea6221c42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success new_rule</value>
-      <webElementGuid>09e72ef6-55d1-4962-909b-2d9733e4934b</webElementGuid>
+      <webElementGuid>78398f13-a529-4041-8569-7a5e79917a25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>New rule</value>
-      <webElementGuid>51d96d96-3ed5-421b-b7f9-522dd1ed6f16</webElementGuid>
+      <webElementGuid>1428d881-20ce-41fe-b9de-56e788eb895c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12&quot;]/div[@class=&quot;box rules-box&quot;]/div[@class=&quot;box-body&quot;]/p[2]/a[@class=&quot;btn btn-success new_rule&quot;]</value>
-      <webElementGuid>f919af09-99ee-4bf6-933d-d6ae2a4e712f</webElementGuid>
+      <webElementGuid>87f104d3-574f-4d2f-90d3-80ffd4c0cf43</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/section[2]/div[3]/div/div/div[2]/p[2]/a</value>
-      <webElementGuid>c26c7c92-14c8-4041-852a-9a4579a8809c</webElementGuid>
+      <webElementGuid>3bfa551a-d894-4395-b0e7-66c0db7450a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'New rule')])[3]</value>
-      <webElementGuid>12ebebac-c658-48e6-92a7-4b176c016d17</webElementGuid>
+      <webElementGuid>4f3650be-ec3f-4a7d-a2ec-cb5e14835c2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://firefly.buudadawg.online/rules/create/12')]</value>
-      <webElementGuid>ab5e613c-88a9-414a-9b78-39ddf1494495</webElementGuid>
+      <value>//div[@id='app']/div/section[2]/div[3]/div/div/div[2]/p[2]/a</value>
+      <webElementGuid>629bd4ab-21fe-46cd-816e-040c31c701cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[2]/a</value>
-      <webElementGuid>cb2486c7-3845-4a27-92fc-672d9c1568b9</webElementGuid>
+      <webElementGuid>ae702e33-1167-4d9a-841c-a3cae3e5df4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://firefly.buudadawg.online/rules/create/12' and (text() = 'New rule' or . = 'New rule')]</value>
-      <webElementGuid>3492bcf1-f576-42c6-b1f6-6f56a271df3e</webElementGuid>
+      <webElementGuid>c9800bdb-cf57-4b6c-a9a7-80466ac692db</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

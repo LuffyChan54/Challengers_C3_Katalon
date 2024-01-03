@@ -47,15 +47,25 @@ WebUI.click(findTestObject('Object Repository/Create_rule/Page_Make a new rule/i
 WebUI.selectOptionByValue(findTestObject('Object Repository/Create_rule/Page_Make a new rule/select_action_type'), actions_type, 
     true)
 
-if (!actions_type.equals("remove_all_tags")) {
-	WebUI.setText(findTestObject('Create_rule/Page_Make a new rule/input_actions1value'), actions_value)
-}
+WebUI.setText(findTestObject('Create_rule/Page_Make a new rule/input_actions1value'), actions_value)
 
 WebUI.click(findTestObject('Object Repository/Create_rule/Page_Make a new rule/input_actions1stop_processing'))
 
 WebUI.click(findTestObject('Object Repository/Create_rule/Page_Make a new rule/button_Store new rule'))
 
 WebUI.verifyTextPresent('Success! Stored new rule with title.*', true)
+
+WebUI.navigateToUrl('https://firefly.buudadawg.online/rules/create/12')
+
+WebUI.setText(findTestObject('Object Repository/Create_rule/Page_Make a new rule/input_title'), title)
+
+WebUI.click(findTestObject('Object Repository/Create_rule/Page_Make a new rule/button_Store new rule'))
+
+WebUI.verifyTextPresent('This name is already in use.', true)
+
+WebUI.click(findTestObject('Object Repository/Create_rule/Page_Whats playing/span_Automation'))
+
+WebUI.click(findTestObject('Object Repository/Create_rule/Page_Whats playing/span_Rules'))
 
 WebUI.click(findTestObject('Create_rule/Page_Rules/delete_trash_button'))
 

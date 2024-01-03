@@ -47,17 +47,15 @@ WebUI.click(findTestObject('Object Repository/Create_rule/Page_Make a new rule/i
 WebUI.selectOptionByValue(findTestObject('Object Repository/Create_rule/Page_Make a new rule/select_action_type'), actions_type, 
     true)
 
-if (!actions_type.equals("remove_all_tags")) {
-	WebUI.setText(findTestObject('Create_rule/Page_Make a new rule/input_actions1value'), actions_value)
-}
+WebUI.setText(findTestObject('Create_rule/Page_Make a new rule/input_actions1value'), actions_value)
 
 WebUI.click(findTestObject('Object Repository/Create_rule/Page_Make a new rule/input_actions1stop_processing'))
 
 WebUI.click(findTestObject('Object Repository/Create_rule/Page_Make a new rule/button_Store new rule'))
 
-WebUI.verifyTextPresent('Success! Stored new rule with title.*', true)
+WebUI.verifyTextPresent('The title field is required.*', true)
 
-WebUI.click(findTestObject('Create_rule/Page_Rules/delete_trash_button'))
+WebUI.click(findTestObject('Object Repository/Create_rule/Page_Whats playing/span_Automation'))
 
-WebUI.click(findTestObject('Create_rule/Page_Delete_rule/input_submit'))
+WebUI.click(findTestObject('Object Repository/Create_rule/Page_Whats playing/span_Rules'))
 
