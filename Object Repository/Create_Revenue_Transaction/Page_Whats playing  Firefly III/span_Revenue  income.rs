@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Revenue  income</name>
+   <tag></tag>
+   <elementGuidId>08a07248-be34-4e6f-98dc-cc3def6cba03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='transaction-menu']/ul/li[2]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a > span:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8132e8df-ffc0-426c-9713-145fc6dfd314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Revenue / income</value>
+      <webElementGuid>d4475f92-a182-4320-954a-471a4963c930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transaction-menu&quot;)/ul[@class=&quot;treeview-menu&quot;]/li[2]/a[1]/span[2]</value>
+      <webElementGuid>ebfb9ade-52da-453d-aaed-e5a45cb2f1d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='transaction-menu']/ul/li[2]/a/span[2]</value>
+      <webElementGuid>0991cec8-7791-4682-aa09-07d7206d309a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span[2]</value>
+      <webElementGuid>4dcc41b6-9d18-48da-8fb0-1fd01e4127a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Revenue / income' or . = 'Revenue / income')]</value>
+      <webElementGuid>b877d83b-6019-4b17-bbf0-ac4ab5ab3bd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
